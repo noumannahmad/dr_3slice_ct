@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contains scripts and tools to train a deep regression pipeline using a k-fold cross-validation approach. The pipeline involves generating a cross-validation split, formatting regression targets, and performing cross-validation on CT images also the GradCAM Saliency Map.
+This repository contains scripts to train a deep regression pipeline using a k-fold cross-validation approach. The pipeline involves generating a cross-validation split, formatting regression targets, and performing cross-validation on CT images also the GradCAM Saliency Map.
 
 ## Prerequisites
 
