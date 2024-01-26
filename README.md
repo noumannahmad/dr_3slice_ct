@@ -67,4 +67,4 @@ This code is  for training a deep learning model for regression tasks, specifica
 
 **Remember to replace placeholders such as `path/to/...` with the actual paths, and add any specific details about your project.**
 
-This pipeline is inspired by [Taro's Deep Regression Pipeline](https://github.com/tarolangner/mri-biometry). Special thanks to Taro for providing a foundation for this work.
+This pipeline is inspired by [Taro's Deep Regression Pipeline](https://github.com/tarolangner/ukb_mimir). Special thanks to Taro for providing a foundation for this work.
